@@ -1,4 +1,4 @@
-Olá eu sou a Gustavo Pinto , Junior em programação e tecnologia!
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-David&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-David&theme=midnight-purple)
